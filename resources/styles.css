@@ -1,0 +1,33 @@
+.background {
+  viewport-fill: 'rgb(76, 36, 127)';
+}
+
+#myLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%+40;
+  fill: 'rgb(192, 218, 235)';
+}
+
+#myLabel2 {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%+40;
+  fill: 'rgb(192, 218, 235)';
+}
+
+#myLabel3 {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 40%+40;
+  fill: 'rgb(192, 218, 235)';
+}
